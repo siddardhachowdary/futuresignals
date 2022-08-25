@@ -1,0 +1,22 @@
+h1{
+    background-color: antiquewhite;
+    color: crimson;
+}
+
+body{
+    background-color: aquamarine;
+    background-image: url('s1.jpg');    
+    width: 10;
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url();
+}
+
